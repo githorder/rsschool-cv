@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CV</title>
 
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <div class="wrapper">
@@ -20,7 +20,7 @@
           class="avatar"
           src="https://avatars.githubusercontent.com/u/44124341?v=4"
           alt="avatar"
-        />
+        >
       </div>
 
       <main>
@@ -112,12 +112,12 @@
           </p>
           <pre>
           function sumArray(array) {
-            if (!array || !array.length || array.length <= 2) return 0
+            if (!array || !array.length || array.length &lt;= 2) return 0
             let minI = array.indexOf(Math.min(...array))
             let maxI = array.indexOf(Math.max(...array))
             let sum = 0
 
-            for (let i = 0; i < array.length; i++) {
+            for (let i = 0&#59; i &lt; array.length&#59; i++) {
               if (i !== minI && i !== maxI) {
                 sum += array[i]
               }
