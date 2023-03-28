@@ -78,3 +78,8 @@ function sumArray(array) {
 ### Educations and Courses:
 
 ### Languages:
+
+- English - Intermediate/Upper
+- Russian - Native
+- Uzbek - Intermediate
+- Spanish - Beginner
