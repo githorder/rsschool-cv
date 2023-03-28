@@ -67,3 +67,14 @@ function sumArray(array) {
   return sum;
 }
 ```
+
+---
+
+### Projects:
+
+- [**Robofriends**](https://github.com/githorder/robofriends)
+- [**CRWN Clothing**](https://github.com/githorder/crwn-clothing)
+
+### Educations and Courses:
+
+### Languages:
