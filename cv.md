@@ -91,7 +91,7 @@ function sumArray(array) {
 
 - INHA University in Tashkent (In progress)
 
---
+---
 
 ### Languages:
 
