@@ -12,6 +12,8 @@
 
 [**LinkedIn**](https://www.linkedin.com/in/diyor-baynazarov-019604176/)
 
+---
+
 ### About me:
 
 On a mission to become a full-stack developer - no-code experience + front-end roadmap. Ready to take on any challenge and create something amazing!
@@ -20,3 +22,23 @@ Technical problem solver and no-code developer in the past job and I was helping
 Providing top-notch support for customers facing technical issues is my current position.
 
 Tech enthusiast and problem-solver. Learning something new every day. HTML, CSS, JS, React and Node/Express coder. Math, physics and Spanish lover. Always eager to read a good book!
+
+---
+
+### Skills:
+
+- Markup and Style Sheet Languages
+  - HTML
+  - CSS
+- Programming Languages
+  - JavaScript
+  - SQL (Domain specific)
+- Libraries and Frameworks
+  - React
+  - Express
+- DBMS
+  - Postgres
+- Version Contol Systems
+  - Git
+- IDE
+  - VS Code
