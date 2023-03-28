@@ -1,5 +1,7 @@
 # Diyor Baynazarov
 
+## Support Specialist
+
 ---
 
-## Junior Developer
+### Contact information:
