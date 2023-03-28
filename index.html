@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="name">Diyor Baynazarov</h1>
+        <h2 class="position">Support Specialist</h2>
+      </header>
+
+      <div class="avatar-container">
+        <img
+          class="avatar"
+          src="https://avatars.githubusercontent.com/u/44124341?v=4"
+          alt="avatar"
+        >
+      </div>
+
+      <main>
+        <section class="contacts">
+          <h3>Contact information:</h3>
+          <p><span>Email:</span>diyor.baynazarov2000@gmail.com</p>
+          <p><span>Telegram:</span>@U1910235_Diyor_Baynazarov</p>
+          <p>
+            <a href="https://www.linkedin.com/in/diyor-baynazarov-019604176/"
+              >LinkedIn</a
+            >
+          </p>
+        </section>
+
+        <section class="about-me">
+          <h3>About me:</h3>
+          <p>
+            On a mission to become a full-stack developer - no-code experience +
+            front-end roadmap. Ready to take on any challenge and create
+            something amazing!
+          </p>
+          <p>
+            Technical problem solver and no-code developer in the past job and I
+            was helping businesses build products without writing a single line
+            of code. Providing top-notch support for customers facing technical
+            issues is my current position.
+          </p>
+          <p>
+            Tech enthusiast and problem-solver. Learning something new every
+            day. HTML, CSS, JS, React and Node/Express coder. Math, physics and
+            Spanish lover. Always eager to read a good book!
+          </p>
+        </section>
+
+        <section class="skills">
+          <h3>Skills:</h3>
+          <ul>
+            <li>
+              Markup and Style Sheet Languages
+              <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+              </ul>
+            </li>
+            <li>
+              Programming Languages
+              <ul>
+                <li>JavaScript</li>
+                <li>SQL (Domain specific)</li>
+              </ul>
+            </li>
+            <li>
+              Libraries and Frameworks
+              <ul>
+                <li>React</li>
+                <li>Express</li>
+              </ul>
+            </li>
+            <li>
+              DBMS
+              <ul>
+                <li>Postgres</li>
+              </ul>
+            </li>
+            <li>
+              Version Contol Systems
+              <ul>
+                <li>Git</li>
+              </ul>
+            </li>
+            <li>
+              IDE
+              <ul>
+                <li>VS Code</li>
+              </ul>
+            </li>
+          </ul>
+        </section>
+
+        <section class="code">
+          <h3>Code:</h3>
+          <p>Task - Sum without highest and lowest number.</p>
+          <p>
+            Description - Sum all the numbers of a given array, except the
+            highest and the lowest element (by value, not by index!). The
+            highest or lowest element respectively is a single element at each
+            edge, even if there are more than one with the same value. Mind the
+            input validation.
+          </p>
+          <pre>
+          function sumArray(array) {
+            if (!array || !array.length || array.length &lt;= 2) return 0
+            let minI = array.indexOf(Math.min(...array))
+            let maxI = array.indexOf(Math.max(...array))
+            let sum = 0
+
+            for (let i = 0&#59; i &lt; array.length&#59; i++) {
+              if (i !== minI &amp;&amp; i !== maxI) {
+                sum += array[i]
+              }
+            }
+
+            return sum
+          }
+        </pre
+          >
+        </section>
+
+        <section>
+          <h3>Projects:</h3>
+          <ul>
+            <li>
+              <a href="https://github.com/githorder/robofriends">robofriends</a>
+            </li>
+            <li>
+              <a href="https://github.com/githorder/crwn-clothing"
+                >CRWN Clothing</a
+              >
+            </li>
+          </ul>
+        </section>
+
+        <section class="education-courses">
+          <h3>Educations and Courses:</h3>
+
+          <h4>Courses:</h4>
+          <ul>
+            <li>
+              ZTM course The Complete Web Developer From Zero to Mastery
+              (Completed)
+            </li>
+            <li>
+              JavaScript Manual on
+              <a href="https://learn.javascript.ru/">learnjavascript.ru</a> (in
+              progress)
+            </li>
+            <li>
+              RS School Course «JavaScript/Front-end. Stage 1» (In progress)
+            </li>
+          </ul>
+
+          <h4>Education:</h4>
+          <ul>
+            <li>INHA University in Tashkent (In progress)</li>
+          </ul>
+        </section>
+
+        <section class="languages">
+          <h3>Languages:</h3>
+          <ul>
+            <li>English - Intermediate/Upper</li>
+            <li>Russian - Native</li>
+            <li>Uzbek - Intermediate</li>
+            <li>Spanish - Beginner</li>
+          </ul>
+        </section>
+      </main>
+    </div>
+  </body>
+</html>
