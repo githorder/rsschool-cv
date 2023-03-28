@@ -4,6 +4,8 @@
 
 ---
 
+![Avatar](https://avatars.githubusercontent.com/u/44124341?v=4)
+
 ### Contact information:
 
 **Email:** diyor.baynazarov2000@gmail.com
@@ -75,6 +77,8 @@ function sumArray(array) {
 - [**Robofriends**](https://github.com/githorder/robofriends)
 - [**CRWN Clothing**](https://github.com/githorder/crwn-clothing)
 
+---
+
 ### Educations and Courses:
 
 #### Courses:
@@ -86,6 +90,8 @@ function sumArray(array) {
 #### Education:
 
 - INHA University in Tashkent (In progress)
+
+--
 
 ### Languages:
 
