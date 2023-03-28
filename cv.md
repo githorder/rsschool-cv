@@ -1,0 +1,5 @@
+# Diyor Baynazarov
+
+---
+
+## Junior Developer
