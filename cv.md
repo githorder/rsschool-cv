@@ -47,7 +47,8 @@ Tech enthusiast and problem-solver. Learning something new every day. HTML, CSS,
 
 ### Code:
 
-**Task - Sum without highest and lowest number**
+**Task - Sum without highest and lowest number.**
+
 Description - Sum all the numbers of a given array, except the highest and the lowest element (by value, not by index!). The highest or lowest element respectively is a single element at each edge, even if there are more than one with the same value. Mind the input validation.
 
 ```
