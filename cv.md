@@ -77,6 +77,16 @@ function sumArray(array) {
 
 ### Educations and Courses:
 
+#### Courses:
+
+- ZTM course The Complete Web Developer From Zero to Mastery (Completed)
+- JavaScript Manual on [**learnjavascript.ru**](https://learn.javascript.ru/) (in progress)
+- RS School Course «JavaScript/Front-end. Stage 1» (In progress)
+
+#### Education:
+
+- INHA University in Tashkent (In progress)
+
 ### Languages:
 
 - English - Intermediate/Upper
